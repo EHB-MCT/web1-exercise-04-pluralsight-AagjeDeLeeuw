@@ -1,0 +1,40 @@
+body {
+	font-family: sans-serif;
+	margin: 50px;
+	background: rgb(101, 23, 88);
+	background: linear-gradient(
+		90deg,
+		rgba(101, 23, 88, 1) 0%,
+		rgba(49, 21, 98, 1) 40%,
+		rgba(27, 24, 52, 1) 100%
+	);
+}
+
+h1 {
+	color: #ff1675;
+	font-size: 18px;
+}
+
+h2 {
+	color: #fff;
+	font-size: 48px;
+}
+
+p {
+	color: #fff;
+	margin-bottom: 30px;
+}
+
+a {
+	color: #fff;
+	text-decoration: none;
+	background-color: #ff1675;
+	border-radius: 50px;
+	padding: 15px;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+
+img {
+	margin-bottom: 20px;
+}
